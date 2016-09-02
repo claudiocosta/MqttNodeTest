@@ -1,0 +1,8 @@
+{
+  "name": "Sistemas Distribuídos",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "mqtt": "^1.14.1"
+  }
+}
